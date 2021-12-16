@@ -1,0 +1,19 @@
+rosbag2_bagfile_information:
+  version: 4
+  storage_identifier: sqlite3
+  relative_file_paths:
+    - rosbag2_2021_11_25-15_26_54_0.db3
+  duration:
+    nanoseconds: 93700547796
+  starting_time:
+    nanoseconds_since_epoch: 1637850414866941732
+  message_count: 938
+  topics_with_message_count:
+    - topic_metadata:
+        name: /position/IMU
+        type: sensor_msgs/msg/JointState
+        serialization_format: cdr
+        offered_qos_profiles: ""
+      message_count: 938
+  compression_format: ""
+  compression_mode: ""
